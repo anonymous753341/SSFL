@@ -1,4 +1,4 @@
-# SSFL [Submitted to ICLR 2024]
+# SSFL [Submitted to ICML 2024]
 Salient Sparse Federated Learning (SSFL) is a sparse decentralized FL training method.
 Tips to run the code:
 
